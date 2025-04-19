@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Start](README.md)
+* [Praxis](praxis.md)

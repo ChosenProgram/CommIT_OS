@@ -78,13 +78,13 @@ More than one thing can be true—until tested. Some truths exist in a quantum-l
 {% endstep %}
 
 {% step %}
-### System Sovereignty
+### 🎠System Sovereignty
 
 You are a system yourself, as a human being. You own your inputs. You run your logic. The goal of Praxis is not dependence—but self-governance and self-authorization. You don’t follow prewritten scripts—you build systems that fit reality as you observe and progress through it.
 {% endstep %}
 
 {% step %}
-### Memetic Immunity
+### 🛡️Memetic Immunity
 
 Structural resistance to manipulation. CommIT is designed to resist cultification, ideological drift, and charismatic takeover. It enforces clarity, not conformity.
 {% endstep %}

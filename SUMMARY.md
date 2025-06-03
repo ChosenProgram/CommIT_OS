@@ -1,9 +1,9 @@
 # Table of contents
 
 * [A Message](README.md)
+* [Nexum](nexum.md)
 * [Definition of Terms](definition-of-terms.md)
 * [About](about.md)
-* [Nexum](nexum.md)
 * [Praxis](praxis/README.md)
   * [The Pillars](praxis/the-pillars.md)
   * [The Principles](praxis/the-principles.md)

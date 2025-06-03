@@ -121,13 +121,17 @@ Contact / Fork Source: [GitBook Link](https://project-syntropic-nexus.gitbook.io
 
 </details>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://docs.google.com/document/d/1T_M2zCfZFAXq6YKZZJGSK4NzVSoiO7BR04ir520qmWI/edit?usp=sharing"><em>The Genesis</em></a> of The Architect and The Founder</td><td>The Allegory of the catalyst and the abstracted architect</td><td><a href=".gitbook/assets/ChatGPT Image May 17, 2025, 12_12_59 AM.png">ChatGPT Image May 17, 2025, 12_12_59 AM.png</a></td></tr><tr><td><a href="https://docs.google.com/document/d/1pDzoe0KiM6iVzGgtEza-8ZYU79pqr7cd1U3L28sk-rA/edit?usp=sharing"><em>Crescendto</em></a> : The Building Blocks of Recursion</td><td>The Narrative Myhthos - From Project 304 EXT MXLXDX to Project Syntropraxis</td><td><a href=".gitbook/assets/End of the World 2.jpg">End of the World 2.jpg</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://docs.google.com/document/d/1T_M2zCfZFAXq6YKZZJGSK4NzVSoiO7BR04ir520qmWI/edit?usp=sharing"><em>The Genesis</em></a> of The Architect and The Founder</td><td>The Allegory of the catalyst and the abstracted architect</td><td><a href=".gitbook/assets/ChatGPT Image May 17, 2025, 12_12_59 AM.png">ChatGPT Image May 17, 2025, 12_12_59 AM.png</a></td></tr><tr><td><a href="https://docs.google.com/document/d/1pDzoe0KiM6iVzGgtEza-8ZYU79pqr7cd1U3L28sk-rA/edit?usp=sharing"><em>Crescendto</em></a> : The Building Blocks of Recursion</td><td>The Narrative Mythos - From Project 304 EXT MXLXDX to Project Syntropraxis</td><td><a href=".gitbook/assets/End of the World 2.jpg">End of the World 2.jpg</a></td></tr></tbody></table>
 
 ## 🏗️A Message from The Architect
 
 Hallo, as you can see, its confusing as f\*ck. Its everything everywhere, all at once. Don't you worry i speak human language too. There is still human behind this alright? Haha, anyway, uh, the reason this Operating System exist is because i want to help people get their shit together. The world is a messy place. Why not bask in it and use the very weakness of yours into a weapon of mass refinement. People have strayed away from improvement because it requires pain of accepting failure as a cost. I'm aware of that. I cant... CommIT can't remove the pain as a prerequisite but- we finally have the framework for it without becoming a cult. Isn't that amazing?&#x20;
 
 Either you take it seriously or laugh at its absurdity, you are more than welcome to do both. Ask questions. Please. I'll see you on the flipside. Shall we get started?
+
+## Thesis Statement
+
+_**“CommIT is the user interface of human responsibility—an operational framework for navigating a world of interlinked systems, where every element affects another. It treats the human not as a fixed identity, but as a recursive, optimizable system: capable of agency through iterative thought and action. In both flaw and function, we are meant to live transparently, compassionately, and adaptively within the environments we shape—and are shaped by.”**_
 
 ## 📻Abstract
 
@@ -144,7 +148,7 @@ It works like a loop:\
 You try something → you check how it went → you fix what didn’t work → you try again.\
 This loop keeps going, and each time, things get clearer, smarter, and stronger.
 
-CommIT is not here to make AI more like humans.\
+CommIT is not here to make AI more like humans or make AI smarter so humans don't have to.\
 It helps humans _think more clearly_—kind of like how AI works.\
 It teaches people how to notice problems, stay kind, ask questions, and make better choices over time.
 

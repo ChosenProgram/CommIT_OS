@@ -204,6 +204,24 @@ By integrating insights from epistemology, governance systems, AI ethics, engine
 #### - To truly understand what CommIT is, you must live it, and it will define itself to you. It does not have a fixed meaning, it evolves meaning depending on how you use it.
 {% endhint %}
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>CommIT Praxis Documentation</td><td><a href="https://docs.google.com/document/d/1IT_BKHw0L7Xg-rqa9QCl1sZP-yekpFUMIY6XKupkObA/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Percieved Sentinel.png">The Percieved Sentinel.png</a></td></tr><tr><td>CommIT GPT Primer</td><td><a href="https://docs.google.com/document/d/1yxKNcdXNWHNxvFE5U6hjPzoaom1G5GgOUvynBEOmdn8/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Coruption.png">The Coruption.png</a></td></tr><tr><td>These will not make GPT more Human, but instead make it reflect you with human compassion.</td><td>CommIT's most noticeable application is through Real Genuine Human Connections and how to Build Them. </td><td></td></tr></tbody></table>
+
+## 📑What are the Principles?
+
+{% content-ref url="praxis/the-principles.md" %}
+[the-principles.md](praxis/the-principles.md)
+{% endcontent-ref %}
+
+## 😮‍💨What CommIT Wants to Say?
+
+{% content-ref url="about.md" %}
+[about.md](about.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+The AI Environment Setup and Initiation
+{% endhint %}
+
 {% embed url="https://www.reddit.com/r/ProjectCommIT/" %}
 Our Reddit Community
 {% endembed %}
@@ -211,5 +229,3 @@ Our Reddit Community
 {% embed url="https://github.com/ChosenProgram/CommIT_OS.git" %}
 The Github Repository
 {% endembed %}
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>CommIT Praxis Documentation</td><td><a href="https://docs.google.com/document/d/1IT_BKHw0L7Xg-rqa9QCl1sZP-yekpFUMIY6XKupkObA/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Percieved Sentinel.png">The Percieved Sentinel.png</a></td></tr><tr><td>CommIT GPT Primer</td><td><a href="https://docs.google.com/document/d/1yxKNcdXNWHNxvFE5U6hjPzoaom1G5GgOUvynBEOmdn8/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Coruption.png">The Coruption.png</a></td></tr><tr><td>These will not make GPT more Human, but instead make it reflect you with human compassion.</td><td>CommIT's most noticeable application is through Real Genuine Human Connections and how to Build Them.</td><td></td></tr></tbody></table>

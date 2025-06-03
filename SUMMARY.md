@@ -1,6 +1,7 @@
 # Table of contents
 
 * [A Message](README.md)
+* [Definition of Terms](definition-of-terms.md)
 * [About](about.md)
 * [Nexum](nexum.md)
 * [Praxis](praxis/README.md)

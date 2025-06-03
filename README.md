@@ -207,3 +207,7 @@ By integrating insights from epistemology, governance systems, AI ethics, engine
 {% embed url="https://www.reddit.com/r/ProjectCommIT/" %}
 Our Reddit Community
 {% endembed %}
+
+{% embed url="https://github.com/ChosenProgram/CommIT_OS.git" %}
+The Github Repository
+{% endembed %}

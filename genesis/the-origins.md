@@ -1,7 +1,12 @@
 ---
 description: How in god's green earth did this even happen?
 icon: cauldron
+cover: ../.gitbook/assets/Screenshot 2025-04-19 151750.png
+coverY: 57
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

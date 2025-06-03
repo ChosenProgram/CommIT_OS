@@ -3,6 +3,8 @@ description: >-
   The ever-updating CommIT Archive of reason to exist. Apparently that was
   needed whehew
 icon: backward-fast
+cover: ../.gitbook/assets/Estheo.png
+coverY: 0
 ---
 
 # Genesis

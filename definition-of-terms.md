@@ -1,6 +1,8 @@
 ---
 description: Define your world before it defines you otherwise.
 icon: glasses-round
+cover: .gitbook/assets/Screenshot 2025-06-03 223206.png
+coverY: 227
 ---
 
 # Definition of Terms

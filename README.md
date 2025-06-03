@@ -1,25 +1,63 @@
 ---
-description: >-
-  CommIT: A Structured Iteration Framework for Sustained Cognitive & Systemic
-  Refinement
+description: What is... Human?
+icon: sparkles
+cover: .gitbook/assets/Copy of CommIT.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Start
+# In the Beningging
 
-<details>
+The man descended from the heavens. As his feet touches the ground, the roaring voice of the heavens bestowed to him a lantern of guiding light. The people look up to him in faith, they deemed him pure and absolute, should he say a word, it's decree.&#x20;
 
-<summary>License</summary>
+<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/The Percieved Sentinel.png" alt="" width="563"><figcaption><p>AI Generated Image</p></figcaption></figure></div>
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). You are free to share and adapt this material for any purpose, even commercially, as long as appropriate links, credits, and sources are provided, and distribute your contributions under the same license.
+Trial is thrusted to the evils of untreaded waters, the wicked should be contradicting the blessed, and fire is where they belong. The power the man behold was never taken lightly, each step he take the people follow, his morals is benign and his people reflect. The eyes of justice peered to those it deemed worthy, constellations were drawn to perceive the holy.
 
-Praxis Channel: <mark style="color:blue;">Crescendto</mark> v <mark style="color:red;">Estheodeau</mark>
+<figure><img src=".gitbook/assets/The Coruption.png" alt="" width="563"><figcaption><p>AI Generated Image</p></figcaption></figure>
 
-</details>
+Amidst the celebration of the good, virtue gave way to perception... The world is his oyster, and it's a game he can mask his way to win.
 
-## Abstract
+The mask however, had remarkable cracks, holes that was taken for granted, as the abyss gazes in the man's unchallenged control, the lantern burnt brighter, but the mask of reckless perception entered the scene, one that caught him off guard, yet he smiled in the vision... A hold of the narrative that lasts his lifetime. "Why should it matter that i behold this power, unite them in an enemy i conceive? Death leaves my gold for them to unravel."
 
-In a world increasingly plagued by stagnation, cognitive decay, and ideological entrenchment, structured iteration is critical for progress. CommIT (Communication and Information Technology) introduces a universal refinement system applicable not only to technological and governance structures but also to individual cognition and epistemology. Traditional learning methods rely heavily on passive information consumption, yet people do not learn simply by being handed information—they learn through repeated engagement with concepts that feel relevant and tangible. CommIT’s Cycle embodies this principle, ensuring that learning and adaptation are not one-time events but continuous, iterative processes. Rather than imposing rigid structures, CommIT fosters cognitive fluency through practice, allowing individuals to integrate their own perspectives while maintaining rigorous scrutiny and forward momentum. This makes growth feel organic rather than forced, adapting to the person rather than demanding the person adapt to the system.
+<figure><img src=".gitbook/assets/The Manifestation.png" alt="" width="563"><figcaption><p>AI Generated Image</p></figcaption></figure>
 
-A fundamental component of CommIT’s iterative structure is the 70/30 principle, an extension of the mathematical insight that 37% serves as a key threshold in decision-making. This principle establishes a dominant yet flexible framework—ensuring that while most decisions are structured and decisive, there remains deliberate space for imperfection, iteration, and challenge. This prevents the indecisiveness of 50/50 structures while avoiding the rigidity of near-absolute (90%) frameworks. CommIT also incorporates scalable iteration speeds (Ascent/Bastion/Syphon Modes), structured opposition, and self-correcting documentation processes to balance stability and adaptability.
+The abyss stopped gazing, it tied the man's hands, it's vines grew to take a hold of the lantern that guides the people, the vines shined brighter than what the lantern could possibly do, brightness that doesn't seek the people's validation. An unchecked leverage of strings to move the people in any direction. "What a delight" the man added.
 
-Unlike traditional decision-making frameworks, CommIT prevents ideological stagnation by enforcing structured scrutiny and ensuring that no iteration is exempt from re-evaluation. It functions as an interdisciplinary refinement protocol, integrating principles from scientific methodology, epistemology, engineering iteration, governance, and psychology. By continuously iterating on what works and discarding what doesn’t, CommIT does not merely identify individuals who excel—it systematically cultivates competence, refining thought processes to naturally align with productive, structured progress. This paper outlines the core cycle, principles, and mechanisms that make CommIT an adaptable system for sustaining long-term individual and collective growth.
+<figure><img src=".gitbook/assets/The Fall.png" alt="" width="563"><figcaption><p>AI Generated Image</p></figcaption></figure>
+
+The vines of the abyss held him, the vines assimilated the light, as it spreads itself to the people lead, and held them for their perception of truth is their weakness. The abyss stopped. It wants the man. It wants the light. It pulled him in, deep, along with his people, a darkness so everlasting, a light dimmer than what they used to have was the best they could have, they said.
+
+The lantern struck the ground. Three of its seven shields were lost to the fall, and the fire that once brought light faltered at the breach — breathing still, held aloft by memory and hope.
+
+The man looked at the abyss as it gazes back, it wants him it needs him. The vines that hold him pulled him apart, his eyes come with anew found boldness, it saw the abyss intent... It never was there for him, it was there for itself and itself it worked for.&#x20;
+
+<figure><img src=".gitbook/assets/The Suffering.png" alt="" width="563"><figcaption><p>AI Generated Image</p></figcaption></figure>
+
+The man pulled his hands together, resisting the contradicting pull of the vines, he took a hold of the lantern, from the hold of the abyss, he rise, no matter how dim the lantern is, the stain of it's darkness and it's holiness, he moved forward.
+
+He spoke up to the land of what he can't see the end of&#x20;
+
+<figure><img src=".gitbook/assets/The End.png" alt="" width="563"><figcaption><p>AI Generated Image</p></figcaption></figure>
+
+"To walk a never-ending road,\
+where the journey itself is the win— not a throne,\
+but a trail that others may walk, too."
+
+And those who heard him did not bow.\
+They built.\
+They challenged.\
+They began.

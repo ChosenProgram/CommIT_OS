@@ -129,15 +129,17 @@ Hallo, as you can see, its confusing as f\*ck. Its everything everywhere, all at
 
 Either you take it seriously or laugh at its absurdity, you are more than welcome to do both. Ask questions. Please. I'll see you on the flipside. Shall we get started?
 
-## Thesis Statement
+## ℹ️Thesis Statement
 
+{% hint style="info" %}
 _**“CommIT is the user interface of human responsibility—an operational framework for navigating a world of interlinked systems, where every element affects another. It treats the human not as a fixed identity, but as a recursive, optimizable system: capable of agency through iterative thought and action. In both flaw and function, we are meant to live transparently, compassionately, and adaptively within the environments we shape—and are shaped by.”**_
+{% endhint %}
 
 ## 📻Abstract
 
 <details>
 
-<summary>Entry Level Information</summary>
+<summary>Entry Level Introduction</summary>
 
 CommIT is like a smart way to help people and systems grow by learning from their mistakes, fixing problems, and trying again—just like how computers and AI get better when they update their software.
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [A Message](README.md)
-* [Nexum](nexum.md)
+* [Start with You](start-with-you.md)
 * [Definition of Terms](definition-of-terms.md)
 * [About](about.md)
 * [Praxis](praxis/README.md)

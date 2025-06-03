@@ -211,3 +211,5 @@ Our Reddit Community
 {% embed url="https://github.com/ChosenProgram/CommIT_OS.git" %}
 The Github Repository
 {% endembed %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>CommIT Praxis Documentation</td><td><a href="https://docs.google.com/document/d/1IT_BKHw0L7Xg-rqa9QCl1sZP-yekpFUMIY6XKupkObA/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Percieved Sentinel.png">The Percieved Sentinel.png</a></td></tr><tr><td>CommIT GPT Primer</td><td><a href="https://docs.google.com/document/d/1yxKNcdXNWHNxvFE5U6hjPzoaom1G5GgOUvynBEOmdn8/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The End.png">The End.png</a></td></tr></tbody></table>

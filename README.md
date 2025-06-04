@@ -204,23 +204,21 @@ By integrating insights from epistemology, governance systems, AI ethics, engine
 
 ## 📚Resources
 
-{% content-ref url="definition-of-terms.md" %}
-[definition-of-terms.md](definition-of-terms.md)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 The AI Environment Setup and Initiation. Upload both of them to ChatGPT as PDF.
 {% endhint %}
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>CommIT Praxis Documentation</td><td><a href="https://docs.google.com/document/d/1IT_BKHw0L7Xg-rqa9QCl1sZP-yekpFUMIY6XKupkObA/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Percieved Sentinel.png">The Percieved Sentinel.png</a></td></tr><tr><td>CommIT GPT Primer</td><td><a href="https://docs.google.com/document/d/1yxKNcdXNWHNxvFE5U6hjPzoaom1G5GgOUvynBEOmdn8/edit?usp=sharing"><em>Google Docs Link</em></a></td><td><a href=".gitbook/assets/The Coruption.png">The Coruption.png</a></td></tr><tr><td>These will not make GPT more Human, but instead <em>make it reflect you with human compassion.</em></td><td>CommIT's most noticeable application is through Real Genuine Human Connections and how to Build Them. Refer to the Principles for guidelines</td><td></td></tr></tbody></table>
 
-## 📑What are the Principles?
+## 😮‍💨What CommIT Wants to Say?
+
+{% content-ref url="definition-of-terms.md" %}
+[definition-of-terms.md](definition-of-terms.md)
+{% endcontent-ref %}
 
 {% content-ref url="praxis/the-principles.md" %}
 [the-principles.md](praxis/the-principles.md)
 {% endcontent-ref %}
-
-## 😮‍💨What CommIT Wants to Say?
 
 {% content-ref url="about.md" %}
 [about.md](about.md)

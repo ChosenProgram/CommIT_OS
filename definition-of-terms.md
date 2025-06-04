@@ -110,7 +110,7 @@ Compassion as structure. When you hit collapse, you don’t stop—you pivot. Re
 {% step %}
 ### 🧬Convergence or Dyad
 
-When opposing ideas meet in the middle, we don’t compromise, we dont make —we refine. Convergence is about synthesis through scrutiny, not consensus for comfort.
+When opposing ideas meet in the middle, we don’t compromise, we don't pick who's right or who has higher position—we converge, combine and refine. Convergence is about synthesis through scrutiny, not consensus for comfort.
 {% endstep %}
 
 {% step %}
